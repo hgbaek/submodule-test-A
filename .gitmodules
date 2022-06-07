@@ -1,3 +1,0 @@
-[submodule "submodule-test-B"]
-	path = submodule-test-B
-	url = https://github.com/hgbaek/submodule-test-B.git
